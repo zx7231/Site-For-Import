@@ -4,7 +4,11 @@ Thumbs.db/
 
 tmp/
 
-index.html_old/
+*index.html_old
 
-NeuroStartUp.png_backup/
+*NeuroStartUp.png_backup
+*_old
+
+*html_old
+
 
